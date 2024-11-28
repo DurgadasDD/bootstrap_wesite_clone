@@ -1370,8 +1370,9 @@ body{
 
 .di212{
     font-size: 17px;
-    
+    border: 2px solid;
     padding-top: 22px;
+    padding-left: 3px;
    
 }
 .di213{
